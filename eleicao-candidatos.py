@@ -1,6 +1,6 @@
 # [2/3] Questão sobre eleição e porcentagem da votação.
 
-import os # Dependencia do código.
+import os # Dependencia do código. 
 import time # Dependencia do código.
 
 # Variaveis da votação.
