@@ -2,7 +2,7 @@ import os # Dependencia do código
 
 # Ação que o WHILE vai processar.
 acao = "y" # y = SIM | n = NAO
-
+ 
 # Votos para fazer a PORCENTAGEM FINAL.
 votos_totais = 0
 
