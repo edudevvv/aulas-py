@@ -1,6 +1,6 @@
 # [1/3] Questão sobre validação de CPF através de calculo.
 
-import os # Dependencia do código.
+import os # Dependencia do código. 
 os.system("cls") # Limpar o terminal.
 
 try: 
